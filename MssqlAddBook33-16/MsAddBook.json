@@ -1,0 +1,46 @@
+[
+  {
+    "firstName": "Deva",
+    "lastName": "Jadhav",
+    "address": "75/4",
+    "city": "Agra",
+    "state": "U.P",
+    "zipCode": 124113,
+    "phoneNo": 7906552015,
+    "email": "devajs2@gmail.com"
+  },
+
+  {
+    "firstName": "Sonu",
+    "lastName": "Veera",
+    "address": "75/2",
+    "city": "Mathura",
+    "state": "U.P",
+    "zipCode": 124001,
+    "phoneNo": 9627974345,
+    "email": "Sonuveera@gmail.com"
+  },
+
+  {
+    "firstName": "Nami",
+    "lastName": "Wagh",
+    "address": "484",
+    "city": "firojabad",
+    "state": "U.P",
+    "zipCode": 124563,
+    "phoneNo": 9545121545,
+    "email": "Nami@gmail.com"
+  },
+
+  {
+    "firstName": "Geeta",
+    "lastName": "Pogat",
+    "address": "42",
+    "city": "Kanpur",
+    "state": "U.P",
+    "zipCode": 456897,
+    "phoneNo": 7520145687,
+    "email": "Pogat@gmail.com"
+  }
+
+]

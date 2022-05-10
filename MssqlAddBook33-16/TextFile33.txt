@@ -1,0 +1,35 @@
+﻿
+Address Book Name : College Students
+firstName : Deva
+lastName : Jadhaw
+address : 75/4
+city : Agra
+state : U.P
+zipCode : 157841
+phoneNo : 7906552015
+email : devajs2@gmail.com
+firstName : Sonu
+lastName : Veera
+address : 75
+city : Agra
+state : U.P
+zipCode : 569712
+phoneNo : 7906552015
+email : SonuVeera@gmail.com
+Address Book Name : Working Professionals
+firstName : Nami
+lastName : Wagh
+address : 45/21
+city : Mathura
+state : Uttar Pradesh
+zipCode : 195120
+phoneNo : 9627974345
+email : Nami@gmail.com
+firstName : Geeta
+lastName : Pogat
+address : 458/2
+city : Noida
+state : U.P
+zipCode : 456321
+phoneNo : 9837694080
+email : Pogat@gmail.com
